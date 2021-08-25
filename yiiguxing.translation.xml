@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register Natives" />
       <item value="队友" />
       <item value="bound must be positive" />
       <item value="attack Able" />
@@ -29,7 +30,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="18" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="ENGLISH" value="19" />
         <entry key="SESOTHO" value="1" />
       </map>
     </option>
