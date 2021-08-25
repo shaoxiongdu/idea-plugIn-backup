@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="move" />
+      <item value="怪物" />
+      <item value="attack Power" />
+      <item value="attack" />
       <item value="租金" />
       <item value="别克" />
       <item value="Moto Vehicle" />
@@ -20,8 +24,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="13" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="16" />
         <entry key="SESOTHO" value="1" />
       </map>
     </option>
