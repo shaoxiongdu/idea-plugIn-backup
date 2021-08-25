@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="租金" />
+      <item value="别克" />
+      <item value="Moto Vehicle" />
+      <item value="calc Rent" />
       <item value="hight" />
       <item value="描述" />
       <item value="Practice" />
@@ -16,8 +20,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="11" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="13" />
+        <entry key="SESOTHO" value="1" />
       </map>
     </option>
   </component>
