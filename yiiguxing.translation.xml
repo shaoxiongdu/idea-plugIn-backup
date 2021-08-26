@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
       <item value="pattern" />
       <item value="register Natives" />
       <item value="队友" />
@@ -30,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="19" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="21" />
         <entry key="SESOTHO" value="1" />
       </map>
     </option>
