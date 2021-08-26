@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="591" />
+    <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="计算租金" />
       <item value="Cet" />
       <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
       <item value="pattern" />
