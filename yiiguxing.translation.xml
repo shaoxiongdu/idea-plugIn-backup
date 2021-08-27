@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="by zero" />
       <item value="Detal" />
       <item value="description" />
       <item value="capacity" />
@@ -40,7 +41,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="25" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="ENGLISH" value="26" />
         <entry key="POLISH" value="1" />
         <entry key="SESOTHO" value="1" />
       </map>
