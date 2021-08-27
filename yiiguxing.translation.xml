@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="capacity" />
       <item value="计算租金" />
       <item value="Cet" />
       <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="CHINESE" value="23" />
+        <entry key="ENGLISH" value="24" />
         <entry key="SESOTHO" value="1" />
       </map>
     </option>
