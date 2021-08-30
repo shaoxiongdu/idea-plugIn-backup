@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Concatenates the specified string to the end of this string. &lt;p&gt; If the length of the argument string is {@code 0}, then this {@code String} object is returned. Otherwise, a {@code String} object is returned that represents a character sequence that is the concatenation of the character sequence represented by this {@code String} object and the character sequence represented by the argument string.&lt;p&gt; Examples:" />
       <item value="Sinleton" />
       <item value="Custom Enum" />
       <item value="current" />
@@ -45,7 +46,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="29" />
+        <entry key="ENGLISH" value="30" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="SESOTHO" value="1" />
