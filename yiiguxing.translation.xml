@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="nano" />
+      <item value="Returns the maximum amount of memory that the Java virtual machine will attempt to use. If there is no inherent limit then the value {@link" />
+      <item value="Returns the amount of free memory in the Java Virtual Machine. Calling the" />
+      <item value="Returns the total amount of memory in the Java virtual machine. The value returned by this method may vary over time, depending on the host environment." />
+      <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
       <item value="Spliterator" />
       <item value="Collection" />
       <item value="Shared empty array instance used for default sized empty instances. We distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when first element is added." />
@@ -34,7 +39,6 @@
       <item value="capacity" />
       <item value="计算租金" />
       <item value="Cet" />
-      <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
       <item value="pattern" />
       <item value="register Natives" />
       <item value="队友" />
@@ -50,15 +54,11 @@
       <item value="Moto Vehicle" />
       <item value="calc Rent" />
       <item value="hight" />
-      <item value="描述" />
-      <item value="Practice" />
-      <item value="extends" />
-      <item value="职务" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="55" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="CROATIAN" value="1" />
