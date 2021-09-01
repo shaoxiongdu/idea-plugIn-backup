@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
+      <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
       <item value="Returns an iterator over the elements in this collection. There are no guarantees concerning the order in which the elements are returned (unless this collection is an instance of some class that provides a guarantee)." />
       <item value="Returns the number of elements in this collection. If this collection contains more than &lt;tt&gt;Integer.MAX_VALUE&lt;tt&gt; elements, returns &lt;tt&gt;Integer.MAX_VALUE&lt;tt&gt;." />
       <item value="An iterator over a collection. {@code Iterator} takes the place of {@link Enumeration} in the Java Collections Framework. Iterators differ from enumerations in two ways:" />
@@ -52,13 +54,11 @@
       <item value="公司" />
       <item value="工作单位" />
       <item value="技术方向" />
-      <item value="variety" />
-      <item value="取款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="43" />
-        <entry key="ENGLISH" value="44" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="47" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="SESOTHO" value="1" />
