@@ -1,5 +1,5 @@
 <application>
-  <component name="ToStringTemplates" defaultTemplateName="Groovy: String concat (+)">
+  <component name="ToStringTemplates" defaultTemplateName="StringJoiner (JDK 1.8)">
     <option name="templates">
       <list>
         <TemplateResource>
