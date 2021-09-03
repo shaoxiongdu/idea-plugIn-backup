@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Returns a {@link Spliterator} covering all of the specified array." />
+      <item value="spliterator" />
+      <item value="parallel Prefix" />
+      <item value="legacy Merge Sort" />
+      <item value="range Check" />
       <item value="Returns a power of two size for the given target capacity." />
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;tt&gt; with the default initial capacity (16) and the default load factor (0.75)." />
       <item value="Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;." />
@@ -49,20 +54,15 @@
       <item value="Returns the number of elements in this collection. If this collection contains more than &lt;tt&gt;Integer.MAX_VALUE&lt;tt&gt; elements, returns &lt;tt&gt;Integer.MAX_VALUE&lt;tt&gt;." />
       <item value="An iterator over a collection. {@code Iterator} takes the place of {@link Enumeration} in the Java Collections Framework. Iterators differ from enumerations in two ways:" />
       <item value="An iterator for lists that allows the programmer to traverse the list in either direction, modify the list during iteration, and obtain the iterator's current position in the list. A {@code ListIterator} has no current element; its &lt;I&gt;cursor position&lt;I&gt; always lies between the element that would be returned by a call to {@code previous()} and the element that would be returned by a call to {@code next()}." />
-      <item value="Gregorian Calendar" />
-      <item value="@param anotherDate the &lt;code&gt;Date&lt;code&gt; to be compared. @return the value &lt;code&gt;0&lt;code&gt; if the argument Date is equal to this Date; a value less than &lt;code&gt;0&lt;code&gt; if this Date is before the Date argument; and a value greater than &lt;code&gt;0&lt;code&gt; if this Date is after the Date argument." />
-      <item value="reverse" />
-      <item value="MEDIUM" />
-      <item value="The pattern string of this formatter. This is always a non-localized pattern. May not be null. See class documentation for details." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
-        <entry key="CROATIAN" value="1" />
+        <entry key="CROATIAN" value="2" />
         <entry key="JAPANESE" value="3" />
         <entry key="SESOTHO" value="1" />
       </map>
