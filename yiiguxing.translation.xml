@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Security Exception" />
       <item value="is Directory" />
       <item value="Returns a {@link Spliterator} covering all of the specified array." />
       <item value="spliterator" />
@@ -53,12 +54,11 @@
       <item value="DEFAULTCAPACITY EMPTY ELEMENTDATA" />
       <item value="Returns an iterator over the elements in this collection. There are no guarantees concerning the order in which the elements are returned (unless this collection is an instance of some class that provides a guarantee)." />
       <item value="Returns the number of elements in this collection. If this collection contains more than &lt;tt&gt;Integer.MAX_VALUE&lt;tt&gt; elements, returns &lt;tt&gt;Integer.MAX_VALUE&lt;tt&gt;." />
-      <item value="An iterator over a collection. {@code Iterator} takes the place of {@link Enumeration} in the Java Collections Framework. Iterators differ from enumerations in two ways:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
