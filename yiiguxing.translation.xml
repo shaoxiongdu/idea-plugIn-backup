@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="This class represents an Internet Protocol (IP) address. &lt;p&gt; An IP address is either a 32-bit or 128-bit unsigned number used by IP, a lower-level protocol on which protocols like UDP and TCP are built. The IP address architecture is defined by &lt;a href=&quot;http:www.ietf.orgrfcrfc790.txt&quot;&gt;&lt;i&gt;RFC&amp;nbsp;790: Assigned Numbers&lt;i&gt;&lt;a&gt;, &lt;a" />
+      <item value="INADDRSZ" />
       <item value="Copyright (c) 2021 杜少雄 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, andor sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
       <item value="personal" />
       <item value="limit" />
@@ -52,14 +54,12 @@
       <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
       <item value="Spliterator" />
       <item value="Collection" />
-      <item value="Shared empty array instance used for default sized empty instances. We distinguish this from EMPTY_ELEMENTDATA to know how much to inflate when first element is added." />
-      <item value="Increases the capacity of this &lt;tt&gt;ArrayList&lt;tt&gt; instance, if necessary, to ensure that it can hold at least the number of elements specified by the minimum capacity argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
-        <entry key="ENGLISH" value="95" />
-        <entry key="POLISH" value="1" />
+        <entry key="CHINESE" value="95" />
+        <entry key="ENGLISH" value="96" />
+        <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
         <entry key="CROATIAN" value="2" />
