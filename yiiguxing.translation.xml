@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Returns true if and only if this string contains the specified sequence of char values." />
       <item value="This method first determines the content type of the object by calling the {@code getContentType} method. If this is the first time that the application has seen that specific content type, a content handler for that content type is created: &lt;ol&gt;" />
       <item value="Retrieves the contents of this URL connection." />
       <item value="This class represents an Internet Protocol (IP) address. &lt;p&gt; An IP address is either a 32-bit or 128-bit unsigned number used by IP, a lower-level protocol on which protocols like UDP and TCP are built. The IP address architecture is defined by &lt;a href=&quot;http:www.ietf.orgrfcrfc790.txt&quot;&gt;&lt;i&gt;RFC&amp;nbsp;790: Assigned Numbers&lt;i&gt;&lt;a&gt;, &lt;a" />
@@ -53,12 +54,11 @@
       <item value="Returns the maximum amount of memory that the Java virtual machine will attempt to use. If there is no inherent limit then the value {@link" />
       <item value="Returns the amount of free memory in the Java Virtual Machine. Calling the" />
       <item value="Returns the total amount of memory in the Java virtual machine. The value returned by this method may vary over time, depending on the host environment." />
-      <item value="Returns the current value of the running Java Virtual Machine's high-resolution time source, in nanoseconds." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="CHINESE" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630721114921" />
+    <option name="lastTrimTime" value="1631371507174" />
   </component>
 </application>
