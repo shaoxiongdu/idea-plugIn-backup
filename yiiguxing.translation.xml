@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="identity" />
       <item value="糖" />
       <item value="饼干" />
       <item value="Returns true if and only if this string contains the specified sequence of char values." />
@@ -53,12 +54,11 @@
       <item value="update Size And Mod Count" />
       <item value="Illegal" />
       <item value="nano" />
-      <item value="Returns the maximum amount of memory that the Java virtual machine will attempt to use. If there is no inherent limit then the value {@link" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="100" />
+        <entry key="ENGLISH" value="101" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
