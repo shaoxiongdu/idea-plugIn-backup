@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="距离" />
       <item value="identity" />
       <item value="糖" />
       <item value="饼干" />
@@ -53,7 +54,6 @@
       <item value="batch Remove" />
       <item value="update Size And Mod Count" />
       <item value="Illegal" />
-      <item value="nano" />
     </histories>
     <option name="languageScores">
       <map>
