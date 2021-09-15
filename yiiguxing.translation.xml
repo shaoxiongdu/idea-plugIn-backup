@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="必填" />
       <item value="阶段" />
       <item value="距离" />
       <item value="identity" />
@@ -53,7 +54,6 @@
       <item value="hash Code Range" />
       <item value="complement" />
       <item value="batch Remove" />
-      <item value="update Size And Mod Count" />
     </histories>
     <option name="languageScores">
       <map>
