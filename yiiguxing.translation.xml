@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="出版社" />
       <item value="必填" />
       <item value="阶段" />
       <item value="距离" />
@@ -53,7 +54,6 @@
       <item value="让世界感受痛苦" />
       <item value="hash Code Range" />
       <item value="complement" />
-      <item value="batch Remove" />
     </histories>
     <option name="languageScores">
       <map>
