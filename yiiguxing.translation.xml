@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogWidth" value="594" />
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="网易新闻列表" />
+      <item value="体育" />
       <item value="出版社" />
       <item value="必填" />
       <item value="阶段" />
@@ -52,13 +54,11 @@
       <item value="你好" />
       <item value="真相只有一个" />
       <item value="让世界感受痛苦" />
-      <item value="hash Code Range" />
-      <item value="complement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="100" />
-        <entry key="ENGLISH" value="101" />
+        <entry key="CHINESE" value="103" />
+        <entry key="ENGLISH" value="103" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
@@ -70,5 +70,13 @@
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1631371507174" />
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20210119000676009" />
+      </app-key>
+    </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
