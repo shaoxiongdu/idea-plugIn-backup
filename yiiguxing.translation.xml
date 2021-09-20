@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="base" />
       <item value="position" />
       <item value="定位position" />
       <item value="部门" />
@@ -53,12 +54,11 @@
       <item value="A collection designed for holding elements prior to processing. Besides basic {@link java.util.Collection Collection} operations, queues provide additional insertion, extraction, and inspection operations. Each of these methods exists in two forms: one throws an exception if the operation fails, the other returns a special value (either {@code null} or {@code false}, depending on the operation). The latter form of the insert operation is designed specifically for use with capacity-restricted {@code Queue} implementations; in most implementations, insert operations cannot fail." />
       <item value="Retrieves and removes the head of this queue, or returns {@code null} if this queue is empty." />
       <item value="poll" />
-      <item value="Retrieves, but does not remove, the head of this queue, or returns {@code null} if this queue is empty." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="104" />
-        <entry key="ENGLISH" value="105" />
+        <entry key="CHINESE" value="105" />
+        <entry key="ENGLISH" value="106" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
