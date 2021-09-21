@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="minute" />
       <item value="The transition CSS property is a shorthand property for transition-property, transition-duration, transition-timing-function, and transition-delay. Transitions enable you to define the transition between two states of an element. Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript. Syntax: &lt;single-transition&gt; &lt;single-transition&gt; = [ none | &lt;single-transition-property&gt; ] || &lt;time&gt; || &lt;easing-function&gt; || &lt;time&gt; &lt;single-transition-property&gt; = all | &lt;custom-ident&gt; &lt;easing-function&gt; = linear | &lt;cubic-bezier-timing-function&gt; | &lt;step-timing-function&gt; Supported by: Chrome 26, Chrome Android 26, Edge, Firefox 16, IE 10, Opera 12.1, Safari 9, Safari iOS" />
       <item value="base" />
       <item value="position" />
@@ -53,12 +54,11 @@
       <item value="random Pinyin Nick Name" />
       <item value="An unbounded priority {@linkplain Queue queue} based on a priority heap. The elements of the priority queue are ordered according to their {@linkplain Comparable natural ordering}, or by a {@link Comparator} provided at queue construction time, depending on which constructor is used. A priority queue does not permit {@code null} elements. A priority queue relying on natural ordering also does not permit insertion of non-comparable objects (doing so may result in {@code ClassCastException})." />
       <item value="A collection designed for holding elements prior to processing. Besides basic {@link java.util.Collection Collection} operations, queues provide additional insertion, extraction, and inspection operations. Each of these methods exists in two forms: one throws an exception if the operation fails, the other returns a special value (either {@code null} or {@code false}, depending on the operation). The latter form of the insert operation is designed specifically for use with capacity-restricted {@code Queue} implementations; in most implementations, insert operations cannot fail." />
-      <item value="Retrieves and removes the head of this queue, or returns {@code null} if this queue is empty." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="106" />
-        <entry key="ENGLISH" value="106" />
+        <entry key="ENGLISH" value="107" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
