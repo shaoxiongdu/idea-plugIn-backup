@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="头像" />
       <item value="container" />
       <item value="legend" />
       <item value="off" />
@@ -53,7 +54,6 @@
       <item value="find Id Prefix By Province" />
       <item value="generate Name Picture" />
       <item value="random Female Id Card" />
-      <item value="random Chinese Mobile" />
     </histories>
     <option name="languageScores">
       <map>
