@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not" />
       <item value="头像" />
       <item value="container" />
       <item value="legend" />
@@ -53,12 +54,11 @@
       <item value="or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https:logging.apache.orglog4j2.xmanualconfiguration.html for instructions on how to configure Log4j 2" />
       <item value="find Id Prefix By Province" />
       <item value="generate Name Picture" />
-      <item value="random Female Id Card" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="109" />
-        <entry key="ENGLISH" value="110" />
+        <entry key="CHINESE" value="110" />
+        <entry key="ENGLISH" value="111" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632301312174" />
+    <option name="lastTrimTime" value="1632796318996" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
