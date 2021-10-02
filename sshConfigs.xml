@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="152.136.194.158" id="f4d97f2a-e272-465e-9389-d73a5e640df4" port="22" customName="腾讯云轻量级服务器" nameFormat="CUSTOM" username="root">
+        <option name="customName" value="腾讯云轻量级服务器" />
+      </sshConfig>
+    </configs>
+  </component>
+</application>
