@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="名字中包含's'的员工名和部门名" />
       <item value="Unable to find cn.shaoxiongdu.po.User with id 123457" />
       <item value="find Accessor For Method" />
       <item value="Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not" />
@@ -53,11 +54,10 @@
       <item value="NEUTRAL" />
       <item value="DENY" />
       <item value="on Match" />
-      <item value="or user programmatically provided configurations. Set system property 'log4j2.debug' to show Log4j 2 internal initialization logging. See https:logging.apache.orglog4j2.xmanualconfiguration.html for instructions on how to configure Log4j 2" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
+        <entry key="CHINESE" value="113" />
         <entry key="ENGLISH" value="113" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
