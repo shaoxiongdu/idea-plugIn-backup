@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="EXPLAIN" />
       <item value="Could not get Connection for extracting meta data; nested exception is org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
       <item value="Unable to determine jdbc url from datasource" />
       <item value="Communications link failure" />
@@ -53,12 +54,11 @@
       <item value="generate Random Dog" />
       <item value="evict" />
       <item value="only If Absent" />
-      <item value="Hash table based implementation of the &lt;tt&gt;Map&lt;tt&gt; interface. This implementation provides all of the optional map operations, and permits &lt;tt&gt;null&lt;tt&gt; values and the &lt;tt&gt;null&lt;tt&gt; key. (The &lt;tt&gt;HashMap&lt;tt&gt; class is roughly equivalent to &lt;tt&gt;Hashtable&lt;tt&gt;, except that it is unsynchronized and permits nulls.) This class makes no guarantees as to the order of the map; in particular, it does not guarantee that the order will remain constant over time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="116" />
-        <entry key="ENGLISH" value="117" />
+        <entry key="CHINESE" value="117" />
+        <entry key="ENGLISH" value="118" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
