@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="comments" />
+      <item value="category id" />
       <item value="EXPLAIN" />
       <item value="Could not get Connection for extracting meta data; nested exception is org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
       <item value="Unable to determine jdbc url from datasource" />
@@ -52,13 +54,11 @@
       <item value="Constructs an empty &lt;tt&gt;HashMap&lt;tt&gt; with the default initial capacity (16) and the default load factor (0.75)." />
       <item value="Failed to load class &quot;org.slf4j.impl.StaticLoggerBinder&quot;." />
       <item value="generate Random Dog" />
-      <item value="evict" />
-      <item value="only If Absent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="117" />
-        <entry key="ENGLISH" value="118" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="120" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="KOREAN" value="1" />
