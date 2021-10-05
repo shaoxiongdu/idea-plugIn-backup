@@ -1,0 +1,18 @@
+<application>
+  <component name="ProfileStorage">
+    <option name="config">
+      <ProfileConfig>
+        <option name="profileDetailsList">
+          <list>
+            <ProfileDetails>
+              <option name="isDefault" value="true" />
+              <option name="profileName" value="杜少雄" />
+              <option name="secretId" value="AKIDnPlqfDUVFiuoSpvkIabKmytWsymJZXFf" />
+              <option name="secretKey" value="A4h49xUkiPpzsTnreuuf9MIwLULvFI6d" />
+            </ProfileDetails>
+          </list>
+        </option>
+      </ProfileConfig>
+    </option>
+  </component>
+</application>
