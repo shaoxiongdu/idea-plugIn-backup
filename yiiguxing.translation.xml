@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="postal" />
       <item value="Access Denied" />
       <item value="Access Denied." />
       <item value="位置" />
@@ -53,12 +54,11 @@
       <item value="spliterator" />
       <item value="parallel Prefix" />
       <item value="legacy Merge Sort" />
-      <item value="range Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="123" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="124" />
+        <entry key="ENGLISH" value="125" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
