@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="The object used to synchronize operations on this stream. For efficiency, a character-stream object may use an object other than itself to protect critical sections. A subclass should therefore use the object in this field rather than &lt;tt&gt;this&lt;tt&gt; or a synchronized method." />
+      <item value="WRITE BUFFER SIZE" />
+      <item value="must be &gt;= 1" />
+      <item value="Temporary buffer used to hold writes of strings and single characters" />
       <item value="postal" />
       <item value="Access Denied" />
       <item value="Access Denied." />
@@ -50,15 +54,11 @@
       <item value="limit" />
       <item value="Security Exception" />
       <item value="is Directory" />
-      <item value="Returns a {@link Spliterator} covering all of the specified array." />
-      <item value="spliterator" />
-      <item value="parallel Prefix" />
-      <item value="legacy Merge Sort" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="125" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
