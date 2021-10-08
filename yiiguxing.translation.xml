@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Writes a line separator. The line separator string is defined by the system property &lt;tt&gt;line.separator&lt;tt&gt;, and is not necessarily a single newline ('\n') character." />
+      <item value="Line separator string. This is the value of the line.separator property at the moment that the stream was created." />
+      <item value="Writes text to a character-output stream, buffering characters so as to provide for the efficient writing of single characters, arrays, and strings." />
       <item value="he number of characters actually skipped" />
       <item value="The object used to synchronize operations on this stream. For efficiency, a character-stream object may use an object other than itself to protect critical sections. A subclass should therefore use the object in this field rather than &lt;tt&gt;this&lt;tt&gt; or a synchronized method." />
       <item value="WRITE BUFFER SIZE" />
@@ -51,14 +54,11 @@
       <item value="This class represents an Internet Protocol (IP) address. &lt;p&gt; An IP address is either a 32-bit or 128-bit unsigned number used by IP, a lower-level protocol on which protocols like UDP and TCP are built. The IP address architecture is defined by &lt;a href=&quot;http:www.ietf.orgrfcrfc790.txt&quot;&gt;&lt;i&gt;RFC&amp;nbsp;790: Assigned Numbers&lt;i&gt;&lt;a&gt;, &lt;a" />
       <item value="INADDRSZ" />
       <item value="Copyright (c) 2021 杜少雄 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, andor sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
-      <item value="personal" />
-      <item value="limit" />
-      <item value="Security Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633240816488" />
+    <option name="lastTrimTime" value="1633680770951" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
