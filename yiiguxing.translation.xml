@@ -1,9 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="588" />
+    <option name="newTranslationDialogHeight" value="514" />
+    <option name="newTranslationDialogWidth" value="586" />
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="IntelliJ IDEA 2021.2.2 is available with the following fixes and updates: Fixed the Hierarchy tool window to show the usages of an interface method that has at least one implementation. [IDEA-275145] JBR 11 was updated to 11.0.11-b1460.1. Fixed the ability to use external diff tools. [IDEA-271200] Fixed the stop button so it now terminates running processes on the first attempt. [IDEA-276772] Fixed the code analysis issue causing warnings, suggestions, and errors not to disappear when resolved. [IDEA-275168] Fixed the error that would occur when trying to establish an SSH connection. [IDEA-277053]" />
       <item value="静止的" />
       <item value="studentid" />
       <item value="The internal buffer array where the data is stored. When necessary, it may be replaced by another array of a different size." />
@@ -53,11 +55,10 @@
       <item value="identity" />
       <item value="糖" />
       <item value="饼干" />
-      <item value="Returns true if and only if this string contains the specified sequence of char values." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="135" />
+        <entry key="CHINESE" value="136" />
         <entry key="ENGLISH" value="136" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
