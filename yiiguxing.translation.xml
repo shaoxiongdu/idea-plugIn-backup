@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="静止的" />
+      <item value="studentid" />
+      <item value="The internal buffer array where the data is stored. When necessary, it may be replaced by another array of a different size." />
+      <item value="The maximum size of array to allocate. Some VMs reserve some header words in an array. Attempts to allocate larger arrays may result in OutOfMemoryError: Requested array size exceeds VM limit" />
+      <item value="DEFAULT BUFFER SIZE" />
       <item value="Writes a line separator. The line separator string is defined by the system property &lt;tt&gt;line.separator&lt;tt&gt;, and is not necessarily a single newline ('\n') character." />
       <item value="Line separator string. This is the value of the line.separator property at the moment that the stream was created." />
       <item value="Writes text to a character-output stream, buffering characters so as to provide for the efficient writing of single characters, arrays, and strings." />
@@ -49,16 +54,11 @@
       <item value="糖" />
       <item value="饼干" />
       <item value="Returns true if and only if this string contains the specified sequence of char values." />
-      <item value="This method first determines the content type of the object by calling the {@code getContentType} method. If this is the first time that the application has seen that specific content type, a content handler for that content type is created: &lt;ol&gt;" />
-      <item value="Retrieves the contents of this URL connection." />
-      <item value="This class represents an Internet Protocol (IP) address. &lt;p&gt; An IP address is either a 32-bit or 128-bit unsigned number used by IP, a lower-level protocol on which protocols like UDP and TCP are built. The IP address architecture is defined by &lt;a href=&quot;http:www.ietf.orgrfcrfc790.txt&quot;&gt;&lt;i&gt;RFC&amp;nbsp;790: Assigned Numbers&lt;i&gt;&lt;a&gt;, &lt;a" />
-      <item value="INADDRSZ" />
-      <item value="Copyright (c) 2021 杜少雄 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, andor sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions: The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="135" />
+        <entry key="ENGLISH" value="136" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -73,11 +73,15 @@
     <option name="lastTrimTime" value="1633680770951" />
   </component>
   <component name="Settings">
+    <option name="autoReplace" value="true" />
+    <option name="autoSelectionMode" value="EXCLUSIVE" />
     <option name="baiduTranslateSettings">
       <app-key>
         <option name="appId" value="20210119000676009" />
       </app-key>
     </option>
+    <option name="separators" value="_" />
+    <option name="translateDocumentation" value="true" />
     <option name="translator" value="BAIDU" />
   </component>
 </application>
