@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Cannot add or update a child row: a foreign key constraint fails (`weixin`.`employees`, CONSTRAINT `job_id_fk` FOREIGN KEY (`job_id`) REFERENCES `jobs` (`job_id`))" />
+      <item value="Duplicate entry '300' for key 'PRIMARY'" />
       <item value="hiredate" />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="Communications link failure" />
@@ -53,8 +55,6 @@
       <item value="base" />
       <item value="position" />
       <item value="定位position" />
-      <item value="部门" />
-      <item value="Returns an array containing all of the elements in this list in proper sequence (from first to last element); the runtime type of the returned array is that of the specified array. If the list fits in the specified array, it is returned therein. Otherwise, a new array is allocated with the runtime type of the specified array and the size of this list." />
     </histories>
     <option name="languageScores">
       <map>
