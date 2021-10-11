@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="query Emp By Gt Salary" />
+      <item value="No value specified for parameter 11" />
+      <item value="Duplicate entry" />
       <item value="Cannot add or update a child row: a foreign key constraint fails (`weixin`.`employees`, CONSTRAINT `job_id_fk` FOREIGN KEY (`job_id`) REFERENCES `jobs` (`job_id`))" />
       <item value="Duplicate entry '300' for key 'PRIMARY'" />
       <item value="hiredate" />
@@ -52,9 +55,6 @@
       <item value="off" />
       <item value="minute" />
       <item value="The transition CSS property is a shorthand property for transition-property, transition-duration, transition-timing-function, and transition-delay. Transitions enable you to define the transition between two states of an element. Different states may be defined using pseudo-classes like :hover or :active or dynamically set using JavaScript. Syntax: &lt;single-transition&gt; &lt;single-transition&gt; = [ none | &lt;single-transition-property&gt; ] || &lt;time&gt; || &lt;easing-function&gt; || &lt;time&gt; &lt;single-transition-property&gt; = all | &lt;custom-ident&gt; &lt;easing-function&gt; = linear | &lt;cubic-bezier-timing-function&gt; | &lt;step-timing-function&gt; Supported by: Chrome 26, Chrome Android 26, Edge, Firefox 16, IE 10, Opera 12.1, Safari 9, Safari iOS" />
-      <item value="base" />
-      <item value="position" />
-      <item value="定位position" />
     </histories>
     <option name="languageScores">
       <map>
