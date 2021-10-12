@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Can not set java.sql.Blob field entity.Customers.photo to null value" />
       <item value="Customers" />
       <item value="描述" />
       <item value="Before start of result set" />
@@ -54,7 +55,6 @@
       <item value="Unable to determine jdbc url from datasource" />
       <item value="The last packet sent successfully to the server was 286 milliseconds ago" />
       <item value="名字中包含's'的员工名和部门名" />
-      <item value="Unable to find cn.shaoxiongdu.po.User with id 123457" />
     </histories>
     <option name="languageScores">
       <map>
