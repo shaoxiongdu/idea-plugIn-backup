@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Before start of result set" />
       <item value="Base DAO" />
       <item value="针对不同表的增删改的通用方法" />
       <item value="描述" />
@@ -54,7 +55,6 @@
       <item value="名字中包含's'的员工名和部门名" />
       <item value="Unable to find cn.shaoxiongdu.po.User with id 123457" />
       <item value="find Accessor For Method" />
-      <item value="Access to DialectResolutionInfo cannot be null when 'hibernate.dialect' not" />
     </histories>
     <option name="languageScores">
       <map>
