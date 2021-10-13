@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="除" />
       <item value="Extensions of this class convert ResultSets into other objects. According to the DRY principle (Don't Repeat Yourself), repeating resultSet variable inside the ResultSetHandler.handle(ResultSet) over and over for each iteration can get a little tedious, AbstractResultSetHandler implicitly gives users access to ResultSet's methods. NOTE This class is NOT thread safe!" />
       <item value="It's not possible for pmdKnownBroken to change from true to false, (once true, always true) so pmd cannot be null here." />
       <item value="QueryRunner requires a DataSource to be invoked in this way, or a Connection should be passed in" />
@@ -54,12 +55,11 @@
       <item value="loction" />
       <item value="comments" />
       <item value="category id" />
-      <item value="EXPLAIN" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="149" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="ENGLISH" value="150" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -71,7 +71,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1633680770951" />
+    <option name="lastTrimTime" value="1634124901336" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
