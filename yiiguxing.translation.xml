@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Extensions of this class convert ResultSets into other objects. According to the DRY principle (Don't Repeat Yourself), repeating resultSet variable inside the ResultSetHandler.handle(ResultSet) over and over for each iteration can get a little tedious, AbstractResultSetHandler implicitly gives users access to ResultSet's methods. NOTE This class is NOT thread safe!" />
       <item value="It's not possible for pmdKnownBroken to change from true to false, (once true, always true) so pmd cannot be null here." />
       <item value="QueryRunner requires a DataSource to be invoked in this way, or a Connection should be passed in" />
       <item value="max Statements" />
@@ -54,7 +55,6 @@
       <item value="comments" />
       <item value="category id" />
       <item value="EXPLAIN" />
-      <item value="Could not get Connection for extracting meta data; nested exception is org.springframework.jdbc.CannotGetJdbcConnectionException: Could not get JDBC Connection; nested exception is com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
     </histories>
     <option name="languageScores">
       <map>
