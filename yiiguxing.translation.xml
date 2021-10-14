@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Only a type can be imported. cn.shaoxiongdu.Person resolves to a package" />
       <item value="是否存在" />
       <item value="Too many parameters: expected 3, was given 4 Query:" />
       <item value="除" />
@@ -54,11 +55,10 @@
       <item value="Access Denied" />
       <item value="Access Denied." />
       <item value="位置" />
-      <item value="loction" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
+        <entry key="CHINESE" value="151" />
         <entry key="ENGLISH" value="151" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
