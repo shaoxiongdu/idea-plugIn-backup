@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="collapse" />
       <item value="Only a type can be imported. cn.shaoxiongdu.Person resolves to a package" />
       <item value="是否存在" />
       <item value="Too many parameters: expected 3, was given 4 Query:" />
@@ -54,7 +55,6 @@
       <item value="postal" />
       <item value="Access Denied" />
       <item value="Access Denied." />
-      <item value="位置" />
     </histories>
     <option name="languageScores">
       <map>
