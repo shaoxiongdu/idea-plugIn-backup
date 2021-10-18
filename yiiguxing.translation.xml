@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="签收" />
       <item value="Exception invoking method createStandardContext javax.management.RuntimeOperationsException: Exception invoking method manageApp" />
       <item value="Exception invoking method createStandardContext" />
       <item value="collapse" />
@@ -54,7 +55,6 @@
       <item value="WRITE BUFFER SIZE" />
       <item value="must be &gt;= 1" />
       <item value="Temporary buffer used to hold writes of strings and single characters" />
-      <item value="postal" />
     </histories>
     <option name="languageScores">
       <map>
