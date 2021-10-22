@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="591" />
     <option name="newTranslationDialogY" value="316" />
     <histories>
+      <item value="Invocation Handler" />
       <item value="实例" />
       <item value=".No Such Method Exception" />
       <item value="Set the {@code accessible} flag for this object to the indicated boolean value. A value of {@code true} indicates that the reflected object should suppress Java language access checking when it is used. A value of {@code false} indicates that the reflected object should enforce Java language access checks." />
@@ -54,7 +55,6 @@
       <item value="The maximum size of array to allocate. Some VMs reserve some header words in an array. Attempts to allocate larger arrays may result in OutOfMemoryError: Requested array size exceeds VM limit" />
       <item value="DEFAULT BUFFER SIZE" />
       <item value="Writes a line separator. The line separator string is defined by the system property &lt;tt&gt;line.separator&lt;tt&gt;, and is not necessarily a single newline ('\n') character." />
-      <item value="Line separator string. This is the value of the line.separator property at the moment that the stream was created." />
     </histories>
     <option name="languageScores">
       <map>
