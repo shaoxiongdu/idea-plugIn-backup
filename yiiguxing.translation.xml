@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="457" />
     <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="post Process Before Initialization" />
       <item value="shaoxiongdu" />
       <item value="prototype" />
       <item value="scope" />
@@ -54,12 +55,11 @@
       <item value="IntelliJ IDEA 2021.2.2 is available with the following fixes and updates: Fixed the Hierarchy tool window to show the usages of an interface method that has at least one implementation. [IDEA-275145] JBR 11 was updated to 11.0.11-b1460.1. Fixed the ability to use external diff tools. [IDEA-271200] Fixed the stop button so it now terminates running processes on the first attempt. [IDEA-276772] Fixed the code analysis issue causing warnings, suggestions, and errors not to disappear when resolved. [IDEA-275168] Fixed the error that would occur when trying to establish an SSH connection. [IDEA-277053]" />
       <item value="静止的" />
       <item value="studentid" />
-      <item value="The internal buffer array where the data is stored. When necessary, it may be replaced by another array of a different size." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="154" />
+        <entry key="ENGLISH" value="155" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
