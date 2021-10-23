@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Data truncation: Data too long for column 'enemyTips' at row 1 Query:" />
       <item value="Data too long for column 'story' at row 1 Query" />
       <item value="ou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id = '1'' at line 1 Query" />
       <item value="attack Range" />
@@ -54,12 +55,11 @@
       <item value="QueryRunner requires a DataSource to be invoked in this way, or a Connection should be passed in" />
       <item value="max Statements" />
       <item value="Can not set java.sql.Blob field entity.Customers.photo to null value" />
-      <item value="Customers" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="171" />
-        <entry key="ENGLISH" value="172" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
