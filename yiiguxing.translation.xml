@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="514" />
-    <option name="newTranslationDialogWidth" value="584" />
-    <option name="newTranslationDialogX" value="591" />
-    <option name="newTranslationDialogY" value="316" />
+    <option name="newTranslationDialogWidth" value="582" />
+    <option name="newTranslationDialogX" value="457" />
+    <option name="newTranslationDialogY" value="280" />
     <histories>
+      <item value="shaoxiongdu" />
+      <item value="prototype" />
+      <item value="scope" />
       <item value="Invocation Handler" />
       <item value="实例" />
       <item value=".No Such Method Exception" />
@@ -52,14 +55,11 @@
       <item value="静止的" />
       <item value="studentid" />
       <item value="The internal buffer array where the data is stored. When necessary, it may be replaced by another array of a different size." />
-      <item value="The maximum size of array to allocate. Some VMs reserve some header words in an array. Attempts to allocate larger arrays may result in OutOfMemoryError: Requested array size exceeds VM limit" />
-      <item value="DEFAULT BUFFER SIZE" />
-      <item value="Writes a line separator. The line separator string is defined by the system property &lt;tt&gt;line.separator&lt;tt&gt;, and is not necessarily a single newline ('\n') character." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="151" />
+        <entry key="CHINESE" value="155" />
+        <entry key="ENGLISH" value="154" />
         <entry key="POLISH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
@@ -88,6 +88,5 @@
     </option>
     <option name="separators" value="_" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="ALI" />
   </component>
 </application>
