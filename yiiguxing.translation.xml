@@ -1,7 +1,7 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="514" />
-    <option name="newTranslationDialogWidth" value="580" />
+    <option name="newTranslationDialogWidth" value="578" />
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
@@ -94,5 +94,6 @@
     </option>
     <option name="separators" value="_" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="ALI" />
   </component>
 </application>
