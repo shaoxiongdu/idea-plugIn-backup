@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="HTTP2 stream 1 was not closed cleanly before end of the underlying stream" />
       <item value="expected 1, actual 7" />
       <item value="No ParameterResolver registered for parameter [java.lang.String arg0] in method [public void cn.shaoxiongdu.dao.impl.BookDaoImpl.deleteById(java.lang.String)]." />
       <item value="Parameter Resolution Exception" />
@@ -54,7 +55,6 @@
       <item value="Only a type can be imported. cn.shaoxiongdu.Person resolves to a package" />
       <item value="是否存在" />
       <item value="Too many parameters: expected 3, was given 4 Query:" />
-      <item value="除" />
     </histories>
     <option name="languageScores">
       <map>
