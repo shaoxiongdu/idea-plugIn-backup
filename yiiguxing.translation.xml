@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="No ParameterResolver registered for parameter [java.lang.String arg0] in method [public void cn.shaoxiongdu.dao.impl.BookDaoImpl.deleteById(java.lang.String)]." />
+      <item value="Parameter Resolution Exception" />
       <item value="Bean named 'userDaoImpl' is expected to be of type 'cn.shaoxiongdu.dao.impl.UserDaoImpl' but was actually of type 'com.sun.proxy.Proxy19'" />
       <item value="Invocation Handler" />
       <item value="Component" />
@@ -53,8 +55,6 @@
       <item value="Too many parameters: expected 3, was given 4 Query:" />
       <item value="除" />
       <item value="Extensions of this class convert ResultSets into other objects. According to the DRY principle (Don't Repeat Yourself), repeating resultSet variable inside the ResultSetHandler.handle(ResultSet) over and over for each iteration can get a little tedious, AbstractResultSetHandler implicitly gives users access to ResultSet's methods. NOTE This class is NOT thread safe!" />
-      <item value="It's not possible for pmdKnownBroken to change from true to false, (once true, always true) so pmd cannot be null here." />
-      <item value="QueryRunner requires a DataSource to be invoked in this way, or a Connection should be passed in" />
     </histories>
     <option name="languageScores">
       <map>
