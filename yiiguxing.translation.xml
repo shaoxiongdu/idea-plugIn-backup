@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="An error happened during template parsing" />
       <item value="Controller" />
       <item value="HTTP2 stream 1 was not closed cleanly before end of the underlying stream" />
       <item value="expected 1, actual 7" />
@@ -54,11 +55,10 @@
       <item value="Exception invoking method createStandardContext" />
       <item value="collapse" />
       <item value="Only a type can be imported. cn.shaoxiongdu.Person resolves to a package" />
-      <item value="是否存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
+        <entry key="CHINESE" value="175" />
         <entry key="ENGLISH" value="175" />
         <entry key="POLISH" value="2" />
         <entry key="DANISH" value="1" />
