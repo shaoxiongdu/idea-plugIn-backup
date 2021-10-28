@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="QueryRunner requires a DataSource to be invoked in this way, or a Connection should be passed in" />
       <item value="An error happened during template parsing" />
       <item value="Controller" />
       <item value="HTTP2 stream 1 was not closed cleanly before end of the underlying stream" />
@@ -54,7 +55,6 @@
       <item value="Exception invoking method createStandardContext javax.management.RuntimeOperationsException: Exception invoking method manageApp" />
       <item value="Exception invoking method createStandardContext" />
       <item value="collapse" />
-      <item value="Only a type can be imported. cn.shaoxiongdu.Person resolves to a package" />
     </histories>
     <option name="languageScores">
       <map>
