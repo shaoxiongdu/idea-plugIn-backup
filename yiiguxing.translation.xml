@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="No appropriate protocol (protocol is" />
+      <item value="e: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
+      <item value="may involve cn.shaoxiongdu.dao.UserMapper.queryUserById" />
+      <item value="The error may exist in UserMapper.xml" />
+      <item value="The last packet successfully received from the server was 779 milliseconds ago. The last packet sent successfully to the server was 770 milliseconds ago." />
+      <item value="Mapped Statements collection does not contain value for UserMapper.queryAll" />
+      <item value=".Illegal Argument Exception:" />
+      <item value="Mapped Statements collection does not contain value for UserMapper.queryUserById" />
       <item value="No suitable driver" />
       <item value="APPARENT DEADLOCK!!! Creating emergency threads for unassigned pending tasks! 28-Oct-2021 15:12:26.144 璀﹀憡 [Timer-0] com.mchange.v2.async.ThreadPoolAsynchronousRunnerDeadlockDetector.run com.mchange.v2.async.ThreadPoolAsynchronousRunnerDeadlockDetector@4f98e4cf -- APPARENT DEADLOCK!!! Complete Status:" />
       <item value="set Timestamp" />
@@ -47,14 +55,6 @@
       <item value="post Process Before Initialization" />
       <item value="shaoxiongdu" />
       <item value="prototype" />
-      <item value="scope" />
-      <item value="实例" />
-      <item value=".No Such Method Exception" />
-      <item value="Set the {@code accessible} flag for this object to the indicated boolean value. A value of {@code true} indicates that the reflected object should suppress Java language access checking when it is used. A value of {@code false} indicates that the reflected object should enforce Java language access checks." />
-      <item value="invoke" />
-      <item value="Unparseable date: &quot;Mon Oct 18 18:17:59 CST 2021&quot;" />
-      <item value="value attribute can not be parsed:" />
-      <item value="签收" />
     </histories>
     <option name="languageScores">
       <map>
