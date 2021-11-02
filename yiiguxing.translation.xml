@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Mapper Registry" />
+      <item value="Expected one result (or null) to be returned by selectOne(), but found: 157706" />
+      <item value="Unknown column 'shaoxiongdu' in 'where clause'" />
       <item value="No appropriate protocol (protocol is" />
       <item value="e: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure" />
       <item value="may involve cn.shaoxiongdu.dao.UserMapper.queryUserById" />
@@ -52,9 +55,6 @@
       <item value="roles" />
       <item value="alias" />
       <item value="爬虫" />
-      <item value="post Process Before Initialization" />
-      <item value="shaoxiongdu" />
-      <item value="prototype" />
     </histories>
     <option name="languageScores">
       <map>
