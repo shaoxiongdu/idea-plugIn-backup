@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Available parameters are" />
       <item value="one life one love" />
       <item value="Mapper Registry" />
       <item value="Expected one result (or null) to be returned by selectOne(), but found: 157706" />
@@ -54,7 +55,6 @@
       <item value="defens" />
       <item value="camp" />
       <item value="roles" />
-      <item value="alias" />
     </histories>
     <option name="languageScores">
       <map>
