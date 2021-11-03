@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="No qualifying bean of type [cn.shaoxiongdu.dao.UserMapper] found for dependency:" />
       <item value="Available parameters are" />
       <item value="one life one love" />
       <item value="Mapper Registry" />
@@ -54,7 +55,6 @@
       <item value="difficulty" />
       <item value="defens" />
       <item value="camp" />
-      <item value="roles" />
     </histories>
     <option name="languageScores">
       <map>
