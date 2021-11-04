@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="The specified target project directory weixin-crowd-funding-reverse\src\main\java does not exist" />
+      <item value="The last packet successfully received from the server was 685 milliseconds ago. The last packet sent successfully to the server was 684 milliseconds ago." />
+      <item value="Communications link failure" />
       <item value="No qualifying bean of type [cn.shaoxiongdu.dao.UserMapper] found for dependency:" />
       <item value="Available parameters are" />
       <item value="one life one love" />
@@ -52,9 +55,6 @@
       <item value="血量增长" />
       <item value="mp" />
       <item value="hpperlevel" />
-      <item value="difficulty" />
-      <item value="defens" />
-      <item value="camp" />
     </histories>
     <option name="languageScores">
       <map>
