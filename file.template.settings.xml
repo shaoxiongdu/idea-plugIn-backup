@@ -1,6 +1,7 @@
 <application>
   <component name="ExportableFileTemplateSettings">
     <default_templates>
+      <template name="MyBatis生成器配置文件.xml" file-name="generatorConfig" reformat="true" live-template-enabled="false" />
       <template name="ssm整合SpringMVC配置文件.xml" file-name="spring-servlet" reformat="true" live-template-enabled="false" />
       <template name="ssm整合spring配置文件.xml" file-name="applicationContext" reformat="true" live-template-enabled="false" />
       <template name="ssm整合web配置文件.xml" file-name="web" reformat="true" live-template-enabled="false" />
