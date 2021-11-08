@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Illegal State Exception" />
       <item value="expected at least 1 bean which qualifies as autowire candidate." />
       <item value="Path does not chain with any of the trust anchors" />
       <item value="protocol is disabled or cipher suites are inappropriate" />
@@ -54,7 +55,6 @@
       <item value="crit" />
       <item value="mpregen" />
       <item value="hpregen" />
-      <item value="attackrange" />
     </histories>
     <option name="languageScores">
       <map>
