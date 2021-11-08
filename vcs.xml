@@ -34,6 +34,14 @@
           <option name="url" value="https://github.com/eson15/Javaweb_bookstore" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/sprogfall/crowd-funding" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/OYSLccctop/FundingOnline" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\DevWorkSpace" />
