@@ -1,0 +1,7 @@
+<application>
+  <component name="PowerModeII">
+    <option name="maybeElementOfPowerContainerManager">
+      <Optional />
+    </option>
+  </component>
+</application>
