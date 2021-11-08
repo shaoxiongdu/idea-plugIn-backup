@@ -5,10 +5,13 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Path does not chain with any of the trust anchors" />
+      <item value="protocol is disabled or cipher suites are inappropriate" />
+      <item value="Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification." />
+      <item value="Communications link failure" />
       <item value="A MESSAGE FOR YOU" />
       <item value="The specified target project directory weixin-crowd-funding-reverse\src\main\java does not exist" />
       <item value="The last packet successfully received from the server was 685 milliseconds ago. The last packet sent successfully to the server was 684 milliseconds ago." />
-      <item value="Communications link failure" />
       <item value="No qualifying bean of type [cn.shaoxiongdu.dao.UserMapper] found for dependency:" />
       <item value="Available parameters are" />
       <item value="one life one love" />
@@ -52,9 +55,6 @@
       <item value="hpregen" />
       <item value="attackrange" />
       <item value="spellblock" />
-      <item value="armor" />
-      <item value="血量增长" />
-      <item value="mp" />
     </histories>
     <option name="languageScores">
       <map>
