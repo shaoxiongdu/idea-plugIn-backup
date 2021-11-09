@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Error instantiating interface org.springframework.core.annotation.Order with invalid types () or values (). Cause: java.lang.NoSuchMethodException: org.springframework.core.annotation.Order.&lt;init&gt;()" />
       <item value="Member" />
       <item value="Multiple primary key defined" />
       <item value="Illegal State Exception" />
@@ -54,7 +55,6 @@
       <item value="allytips" />
       <item value="attackspeedperlevel" />
       <item value="attackdamage" />
-      <item value="crit" />
     </histories>
     <option name="languageScores">
       <map>
