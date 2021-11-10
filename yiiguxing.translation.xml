@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="traveller Type String" />
+      <item value="credentials Type String" />
+      <item value="traveller Type" />
+      <item value="set Credentials Type" />
       <item value="statement" />
       <item value="Error instantiating interface org.springframework.core.annotation.Order with invalid types () or values (). Cause: java.lang.NoSuchMethodException: org.springframework.core.annotation.Order.&lt;init&gt;()" />
       <item value="Member" />
@@ -51,10 +55,6 @@
       <item value="attack Range" />
       <item value="defense" />
       <item value="passive" />
-      <item value="spells" />
-      <item value="enemytips" />
-      <item value="allytips" />
-      <item value="attackspeedperlevel" />
     </histories>
     <option name="languageScores">
       <map>
