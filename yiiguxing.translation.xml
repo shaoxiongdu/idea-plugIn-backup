@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="495" />
     <option name="newTranslationDialogY" value="262" />
     <histories>
+      <item value="Incorrect column specifier for column 'id'" />
       <item value="traveller Type String" />
       <item value="credentials Type String" />
       <item value="traveller Type" />
@@ -54,7 +55,6 @@
       <item value="ou have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'id = '1'' at line 1 Query" />
       <item value="attack Range" />
       <item value="defense" />
-      <item value="passive" />
     </histories>
     <option name="languageScores">
       <map>
